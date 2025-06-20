@@ -1,4 +1,4 @@
-# Time Dilation in relativity (SR and GR)
+# Time Dilation in Relativity (SR and GR)
 
 ## Understanding on Lorentz-covariant rules in Special Relativity theory: 
 
