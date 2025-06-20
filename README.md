@@ -7,11 +7,11 @@ The time perception of physical processes across distinct reference frames funda
 ### Key Distinction from GR Effects
 While the mathematical derivation process aligns with standard special relativity textbooks—replacing continuous spacetime metrics with discrete counting operations—the physical interpretation differs substantially in conceptualization:
 
-### SR Effects as Perceptual Phenomena
+ ——SR Effects as Perceptual Phenomena
 Time dilation and length contraction emerge purely as observer-dependent measurement consequences
 Originate from information transmission constraints via discrete light-signal counting
 
-### Contrast with GR Mechanisms
+ ——Contrast with GR Mechanisms
 Gravitational time dilation involves actual deformation of the SEQ network's transformation frequency
 Equivalence principle effects require space compression as well
 
